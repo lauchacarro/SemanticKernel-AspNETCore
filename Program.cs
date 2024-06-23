@@ -1,6 +1,5 @@
 using Microsoft.SemanticKernel.ChatCompletion;
 
-using SemanticKernel.Api;
 
 var builder = WebApplication.CreateBuilder(args);
 
